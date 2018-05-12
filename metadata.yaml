@@ -1,0 +1,30 @@
+_repo: New-National-Fourth-Reader_15825
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hawkes, J. Marshall
+    gutenberg_agent_id: '6325'
+    url: http://www.gutenberg.org/2009/agents/6325
+  - agent_name: Barnes, Charles J. (Charles Joseph)
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '5246'
+    url: http://www.gutenberg.org/2009/agents/5246
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15825'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers (Secondary)'
+title: New National Fourth Reader
+url: http://www.gutenberg.org/ebooks/15825
